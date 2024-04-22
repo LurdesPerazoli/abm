@@ -1,0 +1,19 @@
+body{
+	background-color: #7D3C98;
+	font-family: tahoma;
+	text-align: center;
+	color: #FADBD8;
+	}
+	a:hover{
+		color:black;
+	}
+	a:link{
+		color: red;
+	}
+	a:visited{
+		color: orange;
+	}
+	table{
+		align-items:  center;
+	}
+
